@@ -1,2 +1,2 @@
 # dvdScreen
-The very epic boucning dvd logo
+The very epic bouncing dvd screen logo
